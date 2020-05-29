@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "netlify-test"
+    }
+  },
+  "defaultProject": "netlify-test",
+  "cli": {
+    "analytics": false
+  }
 }
