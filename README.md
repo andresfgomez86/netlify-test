@@ -1,5 +1,7 @@
 # NetlifyTest
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bda06cd5-ded7-461a-97d3-f9209030f7d6/deploy-status)](https://app.netlify.com/sites/andresfgomez86-netlify-test/deploys)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
 ## Development server
